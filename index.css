@@ -224,7 +224,7 @@ Licensing info
 --------------*/
 
 .licensing-info{
-  height: 100vh;
+  height: 10vh;
   color: wheat;
   text-align: center;
   margin-top: 100px;
@@ -347,7 +347,7 @@ service
 ---------------*/
 .service{
   color: white;
-  height: 100vh;
+  height: 80vh;
 }
 
 .service .ser{
